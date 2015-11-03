@@ -9,8 +9,13 @@ body {
   text-align: center;
 }
 h1 {
+  height: 100px;
   font-size: 3em;
   font-weight: bold;
+  background-image: url(images/g3835.png);
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  background-size: 50px;
 }
 img{
    width: 160px;
@@ -30,7 +35,7 @@ img{
   vertical-align: top;
   padding: 5px;
   border: 2px #F2F2F2 solid;
-  background: #FFF;
+  background: #EFECCA;
   box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.15) inset;
 }
 /*ul {
